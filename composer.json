@@ -1,0 +1,12 @@
+{
+    "name": "angular.js",
+    "repo": "components/angular.js",
+    "version": "1.0.8",
+    "main": "angular.js",
+    "scripts": [
+        "angular.js"
+    ],
+    "files": [
+        "angular.min.js"
+    ]
+}
